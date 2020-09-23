@@ -1,0 +1,68 @@
+body{
+    background-image: url(viz.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+.div1{
+    width: 1000px;
+    margin: 0 auto 0 auto;
+}
+.header{
+    max-width: 1000px;
+    min-width: 650px;
+    background-image: url(balaton.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; 
+    height: 200px;
+    padding: 20px;
+}
+.cimerkep img{
+    width: 150px;
+    float: right;
+    margin-right: 80px;
+    margin-top: 10px;
+}
+.baloldal{
+    width: 450px;
+    float: left;
+    background-color: #5B9CEA;
+    padding: 20px;
+}
+
+.jobboldal{
+    width: 450px;
+    float: right;
+    background-color: #5B9CEA;
+    padding: 20px;
+}
+.bold{
+    font-weight: bold;
+
+}
+.szoveg2{
+    font-weight: bold;
+    text-align: center;
+}
+.ertekek{
+    text-align: left;
+}
+
+.szoveg1{
+   font-weight: bold;
+}
+
+.tablazat{
+    text-align: center;
+    background-color: #B0D1F1;
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+.tablazat td{
+    border: 1px solid black;
+    padding: 5px;
+}
+a{
+    text-decoration: underline;
+}
